@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@thapayuvraj](https://github.com/thapayuvraj)
 - 👀 I’m interested in Web Development, Computer Networking, Photography and Music.
 - 🌱 I’m currently learning [Learn Enough to Be Dangerous series](https://www.learnenough.com) by [@mhartl](https://github.com/mhartl)
-- 💞️ I’m looking to collaborate on wolrd of Web Development.
+- 💞️ I’m looking to collaborate on world of Web Development.
 - 📫 You can reach me at thetechgeek@live.com
 
 <a href="https://www.learnenough.com/certificates/yuvrajthapa">

@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Computer Networking, Photography and Music.
 - 🌱 I’m currently learning [Learn Enough to Be Dangerous series](https://www.learnenough.com) by [@mhartl](https://github.com/mhartl)
 - 💞️ I’m looking to collaborate on world of Web Development.
-- 📫 You can reach me at thetechgeek@live.com
+- 📫 You can reach me at my email: thetechgeek@live.com
 
 <a href="https://www.learnenough.com/certificates/yuvrajthapa">
   <img src="https://www.learnenough.com/certificates/yuvrajthapa/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line">
